@@ -1,0 +1,86 @@
+((("py-yapf" .
+   [0 0 0 0 0 1 0])
+  ("python-mode-hook" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0])
+  ("ido-vertical-mode" .
+   [0 0 0 0 0 0 0 1 0 1 0 0 0 0 0 0 0])
+  ("load-path" .
+   [0 0 0 0 1 2 0 0 0])
+  ("autopair-global-mode" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0])
+  ("autopair" .
+   [0 0 0 0 2 0 1 0])
+  ("elpy-enable" .
+   [0 0 0 0 0 0 0 0 1 0 0])
+  ("package-initialize" .
+   [0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0])
+  ("auto-complete-config" .
+   [1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0])
+  ("provide" .
+   [2 0 0 0 1 2 0])
+  ("auth" .
+   [1 0 0 0])
+  ("django" .
+   [2 0 0 0 0 0])
+  ("url" .
+   [1 0 0])
+  ("require" .
+   [9 0 0 3 0 1 0])
+  ("jedi" .
+   [1 0 0 0])
+  ("add-to-list" .
+   [0 0 0 0 0 0 4 0 0 0 0])
+  ("ac-sources" .
+   [0 0 0 0 0 1 0 1 0 0])
+  ("add-hook" .
+   [0 0 0 1 0 0 0 1])
+  ("python-mode" .
+   [0 0 0 0 0 2 0 0 0 0 0])
+  ("python-dev" .
+   [1 0 0 0 0 0 0 0 0 0])
+  ("global-set-key" .
+   [0 0 0 0 0 0 1 0 0 0 0 1 0 0])
+  ("skeleton-pair" .
+   [0 0 0 1 0 0 0 0 0 0 0 0 0])
+  ("skeleton-pair-insert-maybe" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0])
+  ("ido-mode" .
+   [3 0 0 0 0 0 0 0])
+  ("switch-window" .
+   [0 0 0 0 0 0 0 0 3 0 0 0 0])
+  ("kbd" .
+   [1 0 0])
+  ("switch-windows-config" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0])
+  ("nombre" .
+   [1 0 0 0 0 0])
+  ("models" .
+   [7 0 0 0 0 0])
+  ("dni" .
+   [1 0 0])
+  ("licencia" .
+   [1 0 0 0 0 0 0 0])
+  ("blank" .
+   [1 0 0 0 0])
+  ("null" .
+   [2 0 0 0])
+  ("True" .
+   [0 0 2 0])
+  ("estado" .
+   [0 0 0 1 0 0])
+  ("serie" .
+   [1 0 0 0 0])
+  ("usuario" .
+   [1 0 0 0 0 0 0])
+  ("AUTO" .
+   [0 0 0 1])
+  ("auto-save" .
+   [0 0 0 0 0 0 0 2 0])
+  ("auto-save-enable" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0])
+  ("setq" .
+   [1 0 0 0])
+  ("auto-save-slient" .
+   [0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0])
+  ("init-auto-save" .
+   [1 0 0 0 0 0 0 0 0 0 0 0 0 0])))

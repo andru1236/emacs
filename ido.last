@@ -1,0 +1,126 @@
+;;; -*- coding: utf-8 -*-
+
+;; ----- ido-last-directory-list -----
+(
+ ("/home/andru1236/IDES/PycharmProjects/" . "publications/")
+ ("/home/andru1236/IDES/" . "PycharmProjects/")
+ ("/home/andru1236/.emacs.d/extensions/" . "auto-save-deepin/")
+ ("/home/" . "andru1236/")
+ ("/home/andru1236/NEGOCIO/InventarioApp/BoxitInventory/" . "accounts/")
+ ("/home/andru1236/NEGOCIO/InventarioApp/" . "BoxitInventory/")
+ ("/home/andru1236/NEGOCIO/" . "InventarioApp/")
+ ("/home/andru1236/freelance/Marcelino/proyecto/ERP/" . "administracion/")
+ ("/home/andru1236/freelance/Marcelino/proyecto/" . "ERP/")
+ ("/home/andru1236/freelance/Marcelino/" . "proyecto/")
+ ("/home/andru1236/freelance/" . "Marcelino/")
+ ("/home/andru1236/EmacsConf/Actual/22012018/emacs.d/elpa/" . "switch-window-0.9/")
+ ("/home/andru1236/EmacsConf/Actual/22012018/emacs.d/" . "auto-save-list/")
+ ("/home/andru1236/EmacsConf/deepin-emacs/site-lisp/" . "config/")
+ ("/home/andru1236/EmacsConf/deepin-emacs/" . "site-lisp/")
+ ("/home/andru1236/EmacsConf/Actual/22012018/" . "emacs.d/")
+ ("/home/andru1236/EmacsConf/Actual/" . "22012018/")
+ ("/home/andru1236/EmacsConf/" . "Actual/")
+ ("/home/andru1236/.emacs.d/" . "config/")
+ ("/home/andru1236/" . "freelance/")
+)
+
+;; ----- ido-work-directory-list -----
+(
+ "/home/andru1236/freelance/Marcelino/proyecto/ERP/administracion/"
+ "/home/andru1236/.emacs.d/"
+ "/home/andru1236/freelance/Marcelino/proyecto/ERP/catalogo_sin_movimiento/"
+ "/home/andru1236/freelance/Marcelino/proyecto/ERP/catalogo_general/"
+ "/home/andru1236/IDES/PycharmProjects/publications/"
+ "/home/andru1236/.emacs.d/config/"
+ "/home/andru1236/.emacs.d/extensions/auto-save-deepin/"
+ "/home/andru1236/EmacsConf/Actual/22012018/emacs.d/"
+ "/home/andru1236/EmacsConf/Actual/22012018/emacs.d/lisp/"
+ "/home/andru1236/NEGOCIO/InventarioApp/BoxitInventory/accounts/"
+ "/home/andru1236/EmacsConf/deepin-emacs/site-lisp/config/"
+)
+
+;; ----- ido-work-file-list -----
+(
+ "models.py"
+ "init.el"
+ "admin.py"
+ "desktopPublications.py"
+ "python-dev.el"
+ "auto-save.el"
+ "ido-mode-vertical-config.el"
+ "init-auto-save.el"
+ "auto-save-config.el"
+ "key.el"
+)
+
+;; ----- ido-dir-file-cache -----
+(
+ ("/home/andru1236/freelance/Marcelino/proyecto/ERP/administracion/" (23150 5764 849192 639000) "views.py" "__init__.py" "apps.py" "models.py" "migrations/" "admin.py" "./" "../" "tests.py")
+
+ ("/home/andru1236/.emacs.d/" (23150 5802 962447 417000) ".emacs.desktop" "elpa/" ".git/" "ido.last" "config/" "extensions/" "auto-save-list/" "./" "ido.last~" ".emacs.desktop.lock" "snippets/" "init.el" ".directory" "../" "ac-comphist.dat")
+
+ ("/home/andru1236/" (23150 5740 302576 359000) "Downloads/" ".steampath" ".npm/" ".java/" ".wine/" "Android/" "Public/" ".spacemacs" ".Xclients" ".xsession" ".bluej.Boot$App/" ".pki/" ".tuxguitar-1.4/" "Libros/" ".dir_colors" ".PyCharmCE2017.2/" ".node_repl_history" ".zshrc~" "Desktop/" "pgadmin.log" "PlayOnLinux's virtual drives/" "Documents/" ".thumbnails/" ".zcompdump-Martell-5.3.1" ".Genymobile/" ".kingsoft/" ".extend.xinitrc" ".m2/" ".pgadmin/" ".emacs.d/" ".zsh_history" ".pgadmin3" ".esd_auth" "Videos/" "Tablatura/" "IDES/" ".recently-used" ".local/" ".kde4/" ".Xresources" ".thunderbird/" ".xprofile" ".vscode/" "freelance/" ".face.icon" ".bash_logout" ".bashrc" ".oh-my-zsh/" ".PyCharmCE2017.3/" ".dbeaver-drivers/" ".bash_history" ".anydesk/" ".gitconfig" "Templates/" ".fonts.conf" ".python_history" ".android/" ".steam/" ".install4j" "EmacsConf/" ".ssh/" ".psql_history" ".xinitrc" ".config/" "./" ".mozilla/" ".zcompdump-Martell-5.4.1" ".pgpass" ".pgadmin_histoqueries" ".bluej/" ".gradle/" ".profile" "Pictures/" ".zsh-update" ".eclipse/" ".zshrc" ".smex-items" ".kde/" ".nanorc" ".steampid" ".AndroidStudio2.3/" "Comunidad/" "NEGOCIO/" ".PyCharmCE2017.1/" ".gtkrc-2.0" ".cask/" ".bash_profile" ".gnome/" ".gnupg/" ".netbeans/" ".IdeaIC2017.2/" ".dbeaver4/" ".navicat64/" ".directory" "../" ".cache/" ".face" ".oracle_jre_usage/" ".Xauthority" ".designer/" ".zcompdump-Martell-5.4.2" ".swt/" "logs/" ".EasyPmd_10/" "Music/" ".icon" ".PlayOnLinux/" ".mysql/" ".gervill/" ".subversion/")
+
+ ("/home/andru1236/freelance/Marcelino/" (23150 4465 448165 259000) "Estimacion_ERP.pdf" "product_backlog.odt" ".~lock.PRIORIDADES.xlsx#" "ENVIO3/" ".~lock.ESTRUC_02.xlsx#" "BD/" "ESTRUC_02.xlsx" "PROYECTO COMPLETO-4.docx" "./" "ENVIO3.rar" "plantilla_seguimiento_sprint.ods" "Detalle_horas_trabajo.pdf" "proyecto/" "TALBLAS CON DATOS.xlsx" "PRIORIDADES.xlsx" ".directory" "../" "seguimiento/")
+
+ ("/home/andru1236/freelance/Marcelino/proyecto/ERP/catalogo_general/" (23150 3590 32513 45000) "views.py" "__init__.py" "apps.py" "models.py" "migrations/" "admin.py" "./" "__pycache__/" "../" "tests.py")
+
+ ("/home/andru1236/freelance/Marcelino/proyecto/ERP/catalogo_sin_movimiento/" (23150 3563 689242 161000) "views.py" "__init__.py" "apps.py" "models.py" "migrations/" "admin.py" "./" "__pycache__/" "../" "tests.py")
+
+ ("/home/andru1236/IDES/PycharmProjects/publications/" (23148 64566 751670 993000) "LogicPublication.py" "ScriptPublication.py" "./" "__pycache__/" "LogicPublication.py~" "test_permutas.py" "publications" ".idea/" "desktopPublications.py~" "geckodriver.log" "../" "desktopPublications.py" "groups")
+
+ ("/home/andru1236/IDES/PycharmProjects/" (23114 58215 894938 812000) "./" "publications/" "../")
+
+ ("/home/andru1236/IDES/" (23129 36743 468694 367000) "PycharmProjects/" "AndroidStudioProjects/" "NetBeansProjects/" "./" ".directory" "../" "IdeaProjects/")
+
+ ("/home/andru1236/.emacs.d/config/" (23150 1704 715624 738000) "switch-windows-config.el" "auto-pair-config.el" "init-auto-save.el" "python-dev.el" "init-package.el" "python-dev.el~" "./" "key.el" "start.el" "neotree-config.el" "airline-config.el" "config-theme.el" "ido-mode-vertical-config.el" "hlinum-config.el" ".directory" "../" "swiper-config.el")
+
+ ("/home/andru1236/.emacs.d/extensions/" (23150 3082 547002 646000) "neotree/" "swiper/" "auto-save-deepin/" "autopair/" "airline-themes/" "switch-window-0.9/" "doom-theme/" "./" "../" "hlinum.el" "ido-vertical-mode/" "py-yapf.el/")
+
+ ("/home/andru1236/.emacs.d/extensions/auto-save-deepin/" (23150 940 675698 252000) "auto-save.el" "./" "../")
+
+ ("/home/andru1236/EmacsConf/Actual/22012018/emacs.d/lisp/" (23150 68 486312 80000) "swiper/" "init-auto-save.el" "fullscreen.el" "auto-save.el" "init-startup.el" "auto-save.el~" "init-auto-save.el~" "auto-complete/" "./" ".directory" "../" "init-auto-complete.el")
+
+ ("/home/andru1236/EmacsConf/Actual/22012018/emacs.d/auto-save-list/" (23142 20123 122168 382000) ".saves-14198-Martell~" "./" "../")
+
+ ("/home/andru1236/NEGOCIO/InventarioApp/BoxitInventory/accounts/" (23149 63382 465606 923000) "views.py" "__init__.py" "apps.py" "forms.py" "models.py" "migrations/" "admin.py" "./" "__pycache__/" "../" "tests.py")
+
+ ("/home/andru1236/.emacs.d/snippets/" (23149 5782 375897 696000) "./" "../")
+
+ ("/home/andru1236/NEGOCIO/InventarioApp/BoxitInventory/" (23129 42203 212650 348000) ".git/" "boxit.backup" ".vscode/" "BoxitInventary/" "requirements.txt" "Templates/" "staticProject/" "./" "Inventary/" "accounts/" "triggers/" ".idea/" ".directory" "../" "db.sqlite3" "manage.py")
+
+ ("/home/andru1236/NEGOCIO/InventarioApp/" (23129 40768 97795 491000) "boxit/" "./" "BoxitInventory/" "../")
+
+ ("/home/andru1236/NEGOCIO/" (23141 25966 573052 531000) "boxitFinal-ConvertImage.png" ".~BOXIT BOLIVIA HOJA OFICIAL.xlsx" "InventarioApp/" "boxitFinal.png" "./" "Emprendimiento/" "Publicacion/" ".directory" "App_movil/" "../")
+
+ ("/home/andru1236/freelance/Marcelino/proyecto/ERP/" (23149 22802 538211 553000) "administracion/" ".git/" "catalogo_general/" "catalogo_con_movimiento/" "catalogo_sin_movimiento/" "ERP/" "requirements.txt" "./" "plantillas/" "assets_desarrollo/" ".idea/" ".directory" "../" "manage.py")
+
+ ("/home/andru1236/freelance/Marcelino/proyecto/" (23149 22798 924880 182000) "assets/" "servidor/" "ERP/" "requirements.txt" "./" ".directory" "../")
+
+ ("/home/andru1236/freelance/" (23149 22791 878217 335000) "Marcelino/" "./" ".directory" "registros" "../")
+
+ ("/home/andru1236/EmacsConf/deepin-emacs/site-lisp/config/" (23149 28375 952319 520000) "init-newsticker.el" "init-auto-sudoedit.el" "init-org.el" "init-top.el" "init-smex.el" "init-winpoint.el" "init-ruby.el" "init-qt.el" "init-time.el" "init-backup.el" "init-linum.el" "init-hideshow.el" "init-visual-regexp.el" "init-speedbar.el" "init-aggressive-indent.el" "init-dired.el" "init-irc.el" "init-doi.el" "init-auto-indent-mode.el" "init-etags.el" "init-benchmark.el" "init-golang.el" "init-key.el" "init-python.el" "init-rcirc.el" "init-woman.el" "init-moccur.el" "init-less.el" "init-auto-save.el" "init-ecb.el" "init-one-key.el" "init-coffee-mode.el" "init-indent-guide.el" "init-predictive.el" "init-maxima.el" "init-multiterm.el" "init-auctex.el" "init-doxymacs.el" "init-web-mode.el" "init-startup.el" "init-haskell.el" "init-ide.el" "init-flymake.el" "init-yaoddmuse.el" "init-cursor-chg.el" "init-anything.el" "init-cycle-buffer.el" "init-package.el" "init-pdf-tools.el" "init-wget.el" "init-mode.el" "init-w3m.el" "init-window.el" "init-session.el" "init-rebuilder.el" "init-company-mode.el" "init-ido.el" "init-iedit.el" "./" "init-erc.el" "init-doc-view.el" "init-indent.el" "init-thing-edit.el" "init-yasnippet.el" "init-multiple-cursors.el" "init-info.el" "init-sdcv.el" "init-gnus.el" "init-auto-install.el" "init-idle.el" "init-jedi.el" "init-paredit.el" "init-helm.el" "init-sublimity.el" "init-smooth-scrolling.el" "init-tempbuf.el" "init-festival.el" "init.el" "init-minibuffer-tray.el" "init-kill-ring-search.el" "init-org-mode.el" "init-ispell.el" "init-rtags.el" "../" "init-bbbd.el" "init-emms.el" "init-auto-complete.el" "init-apt-utils.el" "theme.el" "init-mldonkey.el" "init-eldoc.el" "init-generic.el" "init-shell.el" "init-help-mode.el" "init-tabbar.el" "init-shell-command.el" "init-irfc.el" "init-git.el" "init-css-mode.el" "init-icicles.el")
+
+ ("/home/andru1236/EmacsConf/Actual/22012018/emacs.d/elpa/switch-window-0.9/" (23142 20123 245502 372000) "switch-window.elc" "switch-window.el" "switch-window-autoloads.el" "./" "switch-window-pkg.el" "../")
+
+ ("/home/andru1236/EmacsConf/Actual/22012018/emacs.d/elpa/" (23142 20123 135501 786000) "github-theme-0.0.3/" "autopair-0.3/" "ace-jump-mode-2.0.0.0/" "yasnippet-0.11.0.signed" "emmet-mode-1.0.10/" "minimap-1.2.signed" "memoize-20130421.1234/" "font-lock+-20170222.1755/" "minimap-1.2/" "popup-0.5/" "gnupg/" "powerline-20161121.2320/" "multiple-cursors-1.3.0/" "switch-window-0.9/" "all-the-icons-20170623.357/" "doom-themes-20170615.437/" "./" "atom-dark-theme-20151119.2335/" "archives/" "smex-3.0/" "undo-tree-0.6.5/" "yasnippet-0.6.1/" "ido-vertical-mode-0.1.1/" "dracula-theme-20170412.845/" "../" "undo-tree-0.6.5.signed" "alpha-1.0/" "main-line-1.2.8/" "auto-complete-1.4/" "yasnippet-0.11.0/" "atom-one-dark-theme-20170117.1905/")
+
+ ("/home/andru1236/EmacsConf/deepin-emacs/site-lisp/extensions/" (23148 46466 764561 325000) "slime/" "qmake-mode/" "g-client/" "gaf/" "nxhtml/" "sublimity/" "bbdb/" "emaf/" "inf-ruby/" "benchmark/" "predictive/" "wrap-region/" "swiper/" "rcodetools/" "rtags/" "emacs-w3m/" "emacs-jedi/" "imaxima/" "emacs-rails/" "ztree/" "lazycat/" "flycheck/" "multiple-cursors/" "icicles-20140102.1758/" "vala-mode/" "enhanced-ruby-mode/" "go/" "e-blog/" "company-mode/" "yasnippet/" "anything/" "gocode/" "magit/" "auto-complete-clang/" "ruby-electric/" "rcirc/" "apel/" "auto-complete/" "ace-jump-mode/" "emmet-mode/" "ace-link/" "emacs-python-environment/" "./" "jade-mode/" "emacs-wget-0.5.0/" "emacs-quickrun/" "ruby-tools/" "ipython-0.9.1/" "smooth-scrolling/" "doxymacs-1.8.0/" "popup-el/" "dired-hacks/" "emacs-ctable/" "python-mode-1.0/" "haskell-mode/" "emacs-go-eldoc/" "dash/" "webkit/" "minibuffer-tray/" "emacs-epc/" "eim-2.4/" "iedit/" "cscope-15.6/" "coffee-mode/" "emms/" "elib/" "c-eldoc/" "pdf-tools/" "../" "vdiff/" "auctex-11.85/" "expand-region/" "ghc-mod/" "tuareg-2.0.6/" "debian-utils/" "helm/" "ace-window/" "rust-mode/" "web-mode/" "emacs-deferred/" "mldonkey-el-0.0.4/" "flymake/" "robe/")
+
+ ("/home/andru1236/EmacsConf/deepin-emacs/site-lisp/" (23148 46464 784549 719000) "config/" "extensions/" "./" "../")
+
+ ("/home/andru1236/EmacsConf/deepin-emacs/" (23148 46466 767894 678000) "site-start.el" ".git/" "site-lisp/" "./" ".gitignore" "debian/" "deepin-emacs.desktop" "emacs-git/" "../" "deepin-emacs.svg" "README.md")
+
+ ("/home/" (22875 48552 868530 89000) "andru1236/" "./" "../")
+
+ ("/home/andru1236/EmacsConf/" (23149 4500 514335 615000) "Actual/" "emacs-doom-themes-master/" "emacs-doom-themes-master.zip" ".emacs.d-6/" "./" "deepin-emacs/" ".directory" "../" "generate.zip" "emacs_bootrap/")
+
+ ("/home/andru1236/EmacsConf/Actual/" (23149 4525 524301 166000) "22012018/" "./" ".directory" "../" "27012018/")
+
+ ("/home/andru1236/EmacsConf/Actual/22012018/" (23148 44485 401302 618000) "emacs.d/" "./" ".directory" "../")
+
+ ("/home/andru1236/EmacsConf/Actual/22012018/emacs.d/" (23149 27807 513588 996000) "lisp/" ".emacs.desktop" "elpa/" "emacs-powerline-master/" "modes.el" "temas_emacs/" "emacs-neotree-dev/" "ido.last" "auto-save-list/" "network-security.data" "./" "ido.last~" "modes.el~" "snippets/" "init.el~" "init.el" ".directory" "../" "ac-comphist.dat")
+)
+
+;; ----- ido-unc-hosts-cache -----
+t
