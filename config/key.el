@@ -40,3 +40,4 @@
 (global-set-key (kbd "C-S-o") 'duplicate_line_above)
 
 (provide 'key)
+
