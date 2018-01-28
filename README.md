@@ -1,4 +1,4 @@
-## Emacs development python
+## Emacs development python for linux
 
 ![Alt text](https://github.com/andru1236/emacs/blob/master/my-emacs.png "My Emacs")
 
