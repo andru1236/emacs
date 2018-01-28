@@ -3,3 +3,5 @@
 .emacs.desktop.lock
 .directory
 ac-comphist.dat
+ido.last
+/eshell/

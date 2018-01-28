@@ -1,9 +1,0 @@
-exit()
-cd ..
-l
-ls
-zsh
-exit()
-cd ..
-cd ..
-source servidor/bin/activate
