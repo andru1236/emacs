@@ -1,8 +1,16 @@
 ## Emacs development python
 
+![Alt text](https://github.com/andru1236/my-emacs.png "My Emacs")
+
 my emacs IDE for python, currently the environment that I use to develop applications, such as Django
 
 ## Install
+
+- **Requirements**
+
+pip `sudo apt-get install pip`, `yaourt pip`,`sudo pacman -S pip`
+
+`pip install elpy jedi flake8 importmagic autopep8 yapf epc`
 
 In a nutshell delete folder `.emacs.d/` and file `.emacs` from the home, and copy this folder to the home, changing its name to .emacs.d /
 
