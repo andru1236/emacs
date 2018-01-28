@@ -32,14 +32,29 @@ In a nutshell delete folder `.emacs.d/` and file `.emacs` from the home, and cop
   
 All configuration files are inside config /, and the init.el file only calls all configuration files
 
-## Activate or Deactivate auto-save
+## Activate or Deactivate auto-save 
+
+Go to file `init.el` into `.emacs.d/` to the home, uncomment next line = 80 
 
 ```
-(add-to-list 'load-path "~/.emacs.d/extensions/auto-save-deepin/")
-(require 'auto-save)
-(auto-save-enable) ;; deactivate comment this line
-(setq auto-save-slient t)
-(provide 'init-auto-save)
+(require 'init-package)               ;; add repository melpa
+(require 'config-theme)               ;; Dom Theme aplication emacs
+(require 'start)                      ;; Configuration basic emacs
+(require 'key)                        ;; Key binding
+(require 'swiper-config)              ;; serach engine, better than C-s
+(require 'hlinum-config)              ;; style for linum 
+(require 'airline-config)             ;; powerline
+(require 'neotree-config)             ;; file manage f8
+(require 'auto-pair-config)           ;; auto pair for all
+(require 'ido-mode-vertical-config)   ;; change navigate file with C-x-f
+(require 'switch-windows-config)      ;; config swith change buffers
+
+(require 'auto-complete-config)       ;; autocomplete
+(ac-config-default)
+(require 'python-dev)                 ;; configuration for python
+
+;; UNCOMMENT = ACTIVATE auto save, COMMENT DEACTIVATe auto save
+;; (require 'init-auto-save)             ;; auto save archive
 
 ```
 
