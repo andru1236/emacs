@@ -1,6 +1,6 @@
-## Emacs development python
+## Emacs development python for linux
 
-![Alt text](https://github.com/andru1236/my-emacs.png "My Emacs")
+![Alt text](https://github.com/andru1236/emacs/blob/master/my-emacs.png "My Emacs")
 
 my emacs IDE for python, currently the environment that I use to develop applications, such as Django
 
