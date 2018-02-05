@@ -1,0 +1,264 @@
+;;; -*- coding: utf-8 -*-
+
+;; ----- ido-last-directory-list -----
+(
+ ("/home/andru1236/.emacs.d/elpa/" . "material-theme-1.2/")
+ ("/home/andru1236/NEGOCIO/InventarioApp/BoxitInventory/staticProject/static/" . "js/")
+ ("/home/andru1236/NEGOCIO/InventarioApp/BoxitInventory/staticProject/" . "static/")
+ ("/home/andru1236/freelance/Marcelino/proyecto/ERP/assets_desarrollo/static/plugins/" . "datatables/")
+ ("/home/andru1236/freelance/Marcelino/proyecto/ERP/assets_desarrollo/static/" . "pages/")
+ ("/home/andru1236/freelance/Marcelino/proyecto/ERP/assets_desarrollo/" . "static/")
+ ("/home/andru1236/freelance/Marcelino/proyecto/ERP/plantillas/" . "catalogo_sin_movimiento/")
+ ("/home/andru1236/Downloads/adminto-15/Admin/" . "Light/")
+ ("/home/andru1236/Downloads/adminto-15/" . "Admin/")
+ ("/home/andru1236/Downloads/" . "adminto-15/")
+ ("/home/andru1236/NEGOCIO/InventarioApp/BoxitInventory/Templates/" . "Profile/")
+ ("/boot/" . "grub/")
+ ("/" . "boot/")
+ ("/home/andru1236/freelance/Marcelino/proyecto/ERP/catalogo_general/" . "sqls/")
+ ("/home/andru1236/freelance/Marcelino/proyecto/ERP/configuracion/" . "modelos/")
+ ("/home/andru1236/freelance/Marcelino/proyecto/ERP/administracion/" . "modelos/")
+ ("/home/andru1236/freelance/Marcelino/proyecto/ERP/catalogo_sin_movimiento/" . "modelos/")
+ ("/home/andru1236/freelance/Marcelino/proyecto/ERP/catalogo_con_movimiento/" . "modelos/")
+ ("/home/andru1236/NEGOCIO/InventarioApp/BoxitInventory/Inventary/" . "modelos/")
+ ("/home/andru1236/IDES/PycharmProjects/" . "publications/")
+ ("/home/andru1236/IDES/" . "PycharmProjects/")
+ ("/home/andru1236/.emacs.d/extensions/" . "multiple-cursors-1.3.0/")
+ ("/home/" . "andru1236/")
+ ("/home/andru1236/NEGOCIO/InventarioApp/BoxitInventory/" . "Inventary/")
+ ("/home/andru1236/NEGOCIO/InventarioApp/" . "BoxitInventory/")
+ ("/home/andru1236/NEGOCIO/" . "InventarioApp/")
+ ("/home/andru1236/freelance/Marcelino/proyecto/ERP/" . "configuracion/")
+ ("/home/andru1236/freelance/Marcelino/proyecto/" . "ERP/")
+ ("/home/andru1236/freelance/Marcelino/" . "proyecto/")
+ ("/home/andru1236/freelance/" . "Marcelino/")
+ ("/home/andru1236/EmacsConf/Actual/22012018/emacs.d/elpa/" . "switch-window-0.9/")
+ ("/home/andru1236/EmacsConf/Actual/22012018/emacs.d/" . "auto-save-list/")
+ ("/home/andru1236/EmacsConf/deepin-emacs/site-lisp/" . "config/")
+ ("/home/andru1236/EmacsConf/deepin-emacs/" . "site-lisp/")
+ ("/home/andru1236/EmacsConf/Actual/22012018/" . "emacs.d/")
+ ("/home/andru1236/EmacsConf/Actual/" . "22012018/")
+ ("/home/andru1236/EmacsConf/" . "Actual/")
+ ("/home/andru1236/.emacs.d/" . "config/")
+ ("/home/andru1236/" . "freelance/")
+)
+
+;; ----- ido-work-directory-list -----
+(
+ "/home/andru1236/freelance/Marcelino/proyecto/ERP/configuracion/modelos/"
+ "/home/andru1236/freelance/Marcelino/proyecto/ERP/catalogo_con_movimiento/modelos/"
+ "/home/andru1236/freelance/Marcelino/proyecto/ERP/administracion/modelos/"
+ "/home/andru1236/freelance/Marcelino/proyecto/ERP/administracion/"
+ "/home/andru1236/freelance/Marcelino/proyecto/ERP/catalogo_sin_movimiento/"
+ "/home/andru1236/freelance/Marcelino/proyecto/ERP/catalogo_con_movimiento/"
+ "/home/andru1236/freelance/Marcelino/"
+ "/home/andru1236/freelance/Marcelino/proyecto/ERP/plantillas/"
+ "/home/andru1236/freelance/Marcelino/proyecto/ERP/catalogo_general/"
+ "/home/andru1236/freelance/Marcelino/proyecto/ERP/plantillas/catalogo_sin_movimiento/"
+ "/home/andru1236/freelance/Marcelino/proyecto/ERP/catalogo_sin_movimiento/modelos/"
+ "/home/andru1236/freelance/Marcelino/proyecto/ERP/plantillas/catalogo_general/"
+ "/home/andru1236/freelance/Marcelino/proyecto/ERP/plantillas/administracion/"
+ "/home/andru1236/freelance/Marcelino/proyecto/ERP/ERP/"
+ "/home/andru1236/Downloads/adminto-15/Admin/Light/"
+ "/home/andru1236/NEGOCIO/InventarioApp/BoxitInventory/Inventary/"
+ "/home/andru1236/.emacs.d/config/"
+ "/home/andru1236/.emacs.d/"
+ "/home/andru1236/EmacsConf/Actual/22012018/emacs.d/"
+ "/home/andru1236/EmacsConf/deepin-emacs/site-lisp/config/"
+ "/home/andru1236/.emacs.d/elpa/material-theme-1.2/"
+ "/home/andru1236/.emacs.d/extensions/exotica-theme-master/"
+ "/home/andru1236/NEGOCIO/InventarioApp/BoxitInventory/staticProject/static/js/"
+ "/home/andru1236/NEGOCIO/InventarioApp/BoxitInventory/BoxitInventary/"
+ "/home/andru1236/freelance/Marcelino/proyecto/ERP/assets_desarrollo/static/pages/"
+ "/home/andru1236/freelance/Marcelino/proyecto/ERP/assets_desarrollo/static/plugins/datatables/"
+ "/home/andru1236/Downloads/"
+ "/home/andru1236/NEGOCIO/InventarioApp/BoxitInventory/Templates/"
+ "/home/andru1236/NEGOCIO/InventarioApp/BoxitInventory/Templates/Profile/"
+ "/home/andru1236/NEGOCIO/InventarioApp/BoxitInventory/accounts/"
+ "/home/andru1236/NEGOCIO/InventarioApp/BoxitInventory/Templates/Accounts/"
+ "/home/andru1236/NEGOCIO/InventarioApp/BoxitInventory/Templates/Product/"
+ "/home/andru1236/freelance/Marcelino/proyecto/ERP/configuracion/"
+ "/home/andru1236/freelance/Marcelino/proyecto/ERP/catalogo_general/sqls/"
+ "/boot/grub/"
+ "/home/andru1236/.config/VirtualBox/"
+ "/home/andru1236/.emacs.d/extensions/doom-theme/"
+ "/home/andru1236/IDES/PycharmProjects/publications/"
+ "/home/andru1236/.emacs.d/extensions/auto-save-deepin/"
+ "/home/andru1236/EmacsConf/Actual/22012018/emacs.d/lisp/"
+)
+
+;; ----- ido-work-file-list -----
+(
+ "Plan_Cuenta.py"
+ "Existencia.py"
+ "Documento.py"
+ "Comprobante_Contabilidad.py"
+ "Cliente.py"
+ "Producto.py"
+ "Banco.py"
+ "Empresa.py"
+ "forms.py"
+ "Caja.py"
+)
+
+;; ----- ido-dir-file-cache -----
+(
+ ("/home/andru1236/freelance/Marcelino/proyecto/ERP/configuracion/modelos/" (23158 43531 263632 805000) "__init__.py" "Comprobante_Contabilidad.py~" "Documento.py" "Plan_Cuenta.py" "./" "Plan_Cuenta.py~" "Documento.py~" "__pycache__/" "Comprobante_Contabilidad.py" "Existencia.py" "Existencia.py~" ".directory" "../")
+
+ ("/home/andru1236/freelance/Marcelino/proyecto/ERP/catalogo_con_movimiento/" (23158 43505 20352 818000) "views.py" "__init__.py" "apps.py" "forms.py" "models.py" "migrations/" "admin.py" "modelos/" "./" "__pycache__/" "forms.py~" ".directory" "../" "tests.py")
+
+ ("/home/andru1236/freelance/Marcelino/proyecto/ERP/catalogo_con_movimiento/modelos/" (23158 43464 607101 680000) "__init__.py" "Caja.py" "Caja.py~" "Producto.py" "Producto_flymake.py" "Banco.py" "./" "__pycache__/" "Cliente.py" "../")
+
+ ("/home/andru1236/freelance/Marcelino/proyecto/ERP/administracion/" (23158 42198 699464 626000) "views.py" "__init__.py" "apps.py" "forms.py" "models.py" "migrations/" "admin.py" "modelos/" "./" "__pycache__/" "forms.py~" ".directory" "../" "tests.py")
+
+ ("/home/andru1236/freelance/Marcelino/proyecto/ERP/administracion/modelos/" (23158 40314 942895 166000) "__init__.py" "Usuario.py" "./" "__pycache__/" "Sede.py" "../" "Empresa.py")
+
+ ("/home/andru1236/freelance/Marcelino/proyecto/ERP/catalogo_sin_movimiento/" (23158 40996 571647 534000) "views.py" "__init__.py" "apps.py" "forms.py" "models.py" "migrations/" "admin.py" "modelos/" "./" "__pycache__/" ".directory" "../" "tests.py")
+
+ ("/home/andru1236/" (23158 40745 838775 166000) "Downloads/" ".steampath" ".npm/" ".java/" ".wine/" "Android/" "Public/" ".spacemacs" ".Xclients" ".xsession" ".bluej.Boot$App/" ".pki/" ".tuxguitar-1.4/" "Libros/" ".dir_colors" "test/" ".PyCharmCE2017.2/" ".node_repl_history" "Desktop/" "pgadmin.log" "PlayOnLinux's virtual drives/" "Documents/" ".thumbnails/" ".zcompdump-Martell-5.3.1" ".Genymobile/" ".kingsoft/" ".extend.xinitrc" ".m2/" ".pgadmin/" ".emacs.d/" ".zsh_history" ".pgadmin3" ".esd_auth" "Videos/" "Tablatura/" "curso-servidores/" "IDES/" ".recently-used" ".local/" "history.txt" ".kde4/" ".Xresources" ".thunderbird/" ".xprofile" ".vscode/" "freelance/" ".face.icon" ".bash_logout" ".bashrc" ".oh-my-zsh/" ".PyCharmCE2017.3/" ".dbeaver-drivers/" ".bash_history" ".anydesk/" ".gitconfig" "Templates/" ".fonts.conf" ".python_history" ".android/" ".steam/" ".install4j" "EmacsConf/" ".ssh/" ".psql_history" ".xinitrc" ".config/" "./" ".mozilla/" ".zcompdump-Martell-5.4.1" ".pgpass" ".pgadmin_histoqueries" ".bluej/" ".gradle/" ".profile" "Pictures/" ".zsh-update" ".eclipse/" ".zshrc" ".smex-items" ".kde/" ".nanorc" ".steampid" ".AndroidStudio2.3/" "Comunidad/" "NEGOCIO/" ".PyCharmCE2017.1/" ".gtkrc-2.0" ".cask/" ".bash_profile" ".gnome/" ".gnupg/" ".netbeans/" ".IdeaIC2017.2/" "VirtualBox VMs/" ".dbeaver4/" ".navicat64/" ".directory" "../" ".cache/" ".face" ".oracle_jre_usage/" ".Xauthority" ".designer/" ".zcompdump-Martell-5.4.2" ".swt/" "logs/" "hs_err_pid1401.log" ".EasyPmd_10/" "Music/" ".icon" ".PlayOnLinux/" ".mysql/" ".gervill/" ".subversion/")
+
+ ("/boot/grub/" (23158 36858 212833 498000) "grubenv" "i386-pc/" "grub.cfg" "themes/" "locale/" "fonts/" "./" "../")
+
+ ("/home/andru1236/Downloads/" (23158 38717 855881 346000) "views.py" "android-studio-ide-162.4069837-linux.zip" "two-scoops-of-django-1-11.pdf" "geckodriver-v0.19.1-linux64.tar.gz" "themelock.com.txt" "comprobante.html" "Yngwie Malmsteen - Brothers (guitar pro) (1).gp3" "Rata Blanca - El Reino Olvidado (guitar pro).gp5" "Yngwie Malmsteen - Brothers (guitar pro).gp3" "Bracket_htmlcssforest.com/" "base.html" "Yngwie Malmsteen - Far Beyond The Sun (guitar pro).gp5" "tor-browser-linux64-7.5a10_es-ES.tar.xz" "Yngwie Malmsteen - Brothers (guitar pro).gp5" "modelo1.mwb" "Libro1.xlsx" "Keywork ERP.pdf" "Admin Pro Admin Template - The Ultimate Bootstrap 4 Admin Template.csv" "Unconfirmed 450697.crdownload" "chromedriver_linux64.zip" "ESTRUC_01 (1).xlsx" "ESTRUC_01.xlsx" "Visual_Paradigm_CE_14_2_20171103_Linux64.sh" "GLCSC LCA BOLIVIA Guia Importacion 140930.pdf" "adminto-15/" ".~lock.SELENIUM.docx#" "2000.rar" "./" "Monster Admin Template - The Most Complete  Trusted Bootstrap 4 Admin Template.csv" "Adminto - Responsive Admin Dashboard Template.pdf" "THEMELOCK.COM.url" "Yngwie Malmsteen - Far Beyond The Sun (guitar pro).gp3" "Keywork ERP.xlsx" "adminto-15.rar" ".~lock.informe-selenium.docx#" "TALBLAS CON DATOS.xlsx" "2003.rar" "Yngwie Malmsteen - Arpeggios From Hell (guitar pro).gp4" "tipos_de_documento.html" ".directory" "index.html" "Keywork ERP (1).pdf" "../" "categorias.html" "Bracket_htmlcssforest.com.zip" "paises.html" "medios_de_pago.html" "Extremoduro - Puta (guitar pro).gp5" "AdminBSBMaterialDesign-master.zip" "Pink Floyd - Comfortably Numb (guitar pro).gp5" "unidades_de_medida.html" "Keywork ERP.csv" "Nuevas proyecciones sta cruz.xlsx" "left_side_bar.html" "Monster Admin Template - The Most Complete  Trusted Bootstrap 4 Admin Template.pdf" "HORARIOVERANO3_2017OFICIAL_20enero_2018-01-22_02-32.pdf" "ubigeos.html" "backup19012017.zip")
+
+ ("/home/andru1236/Downloads/adminto-15/Admin/Light/" (23158 38229 46874 364000) "calendar.html" "extras-maintenance.html" "assets/" "extras-gallery.html" "extras-timeline.html" "page-404.html" "tables-datatable.html" "tables-tablesaw.html" "tables-editable.html" "ui-draggable-cards.html" "extras-invoice.html" "ui-font-awesome-icons.html" "ui-widgets.html" "form-fileupload.html" "chart-chartjs.html" "extras-pricing.html" "form-xeditable.html" "extras-maps.html" "extras-profile.html" "extras-taskboard.html" "page-500.html" "extras-contact.html" "form-elements.html" "ui-modals.html" "ui-themify-icons.html" "./" "page-starter.html" "ui-buttons.html" "email-templates/" "ui-dripicons.html" "chart-morris.html" "page-login.html" "form-wysiwig.html" "form-validation.html" "ui-cards.html" "tables-basic.html" "ui-notification.html" "chart-other.html" "form-wizard.html" "extras-email-template.html" "chart-chartist.html" "extras-comingsoon.html" "ui-treeview.html" "page-lock-screen.html" "ui-sweetalert.html" "page-confirm-mail.html" "chart-flot.html" "page-register.html" "form-advanced.html" ".directory" "extras-faq.html" "index.html" "ui-checkbox-radio.html" "inbox.html" "../" "extras-taskdetail.html" "extras-projects.html" "ui-range-slider.html" "ui-material-icons.html" "tables-responsive.html" "ui-components.html" "extras-tour.html" "typography.html" "page-recoverpw.html")
+
+ ("/home/andru1236/freelance/Marcelino/proyecto/ERP/catalogo_sin_movimiento/modelos/" (23158 37190 215561 981000) "Servicio.py" "Serie.py" "__init__.py" "Serie.py~" "Proyecto.py~" "./" "__pycache__/" ".directory" "../" "Proyecto.py" "Servicio.py~")
+
+ ("/home/andru1236/freelance/Marcelino/ENVIO3/" (23147 54106 707869 441000) "08_REPORTES/" "ESTRUCTURA PARA PEI/" "06_CAJA/" "MOV_DETALLE.xls" "ESTRUC_01.xlsx" "ESTRUCTURA PARA BOLETAS ELECTRONICAS/" "./" "05_ALMACEN/" "PANTALLA - ENTRADA - INVENTARIO INICIAL.xlsx" "Pantalla Ventas - COMPLETO.xlsx" "PROYECTO COMPLETO.docx" "04_OTRAS_OPER/" ".directory" "../" "03_COMPRAS/" "MOV_CABECERA.xls")
+
+ ("/home/andru1236/freelance/Marcelino/" (23158 38764 265793 356000) "Estimacion_ERP.pdf" "product_backlog.odt" "ENVIO3/" "base_de_datos.xlsx" "BD/" "SECUENCIA 01.docx" "Pantalla Ventas.xlsx" "ESTRUC_02.xlsx" "Venta importe.xlsx" "PROYECTO COMPLETO-4.docx" "base_de_datos_marce.xlsx" "Pantalla de Inventario Inicial.xlsx" "./" "Tabla_Modelos.ods" "ENVIO3.rar" "plantilla_seguimiento_sprint.ods" "Detalle_horas_trabajo.pdf" "proyecto/" "TALBLAS CON DATOS.xlsx" ".~lock.base_de_datos_2.xlsx#" "PRIORIDADES.xlsx" ".directory" "../" "base_de_datos_2.xlsx" "Pantalla Distribucion.xlsx" "seguimiento/")
+
+ ("/home/andru1236/freelance/Marcelino/proyecto/ERP/catalogo_general/" (23158 37888 434235 93000) "views.py" "__init__.py" "apps.py" "forms.py" "models.py" "migrations/" "admin.py" "./" "__pycache__/" "../" "tests.py" "sqls/")
+
+ ("/home/andru1236/freelance/Marcelino/proyecto/ERP/plantillas/catalogo_sin_movimiento/" (23158 37302 802022 693000) "vehiculo.html" "moneda.html" "grupo.html" "tipo_documento_interno.html" "moneda.html~" "operador.html" "operacion.html" "periodo.html~" "proyecto.html~" "./" "tipo_documento_interno.html~" "dolar.html" "almacen.html~" "proyecto.html" "almacen.html" "serie.html" "servicio.html" "../" "vehiculo.html~" "periodo.html")
+
+ ("/home/andru1236/freelance/Marcelino/proyecto/ERP/plantillas/" (23158 36993 899253 428000) "administracion/" "catalogo_general/" "base.html" "catalogo_sin_movimiento/" "top_bar.html" "./" "autenticacion/" "#formulario_general.html#" ".directory" "index.html" "formulario_general.html" "../" "left_side_bar.html")
+
+ ("/home/andru1236/freelance/Marcelino/proyecto/ERP/plantillas/catalogo_general/" (23158 35988 577731 537000) "unidad_medida.html" "comprobante.html" "pais.html" "tipo_documento.html" "pais.html~" "tipo_documento.html~" "medio_pago.html~" "./" "unidad_medida.html~" "medio_pago.html" "categoria.html~" "ubigeos.html~" "categoria.html" "../" "ubigeos.html")
+
+ ("/home/andru1236/freelance/Marcelino/proyecto/ERP/plantillas/administracion/" (23158 35593 528431 655000) "usuario.html~" "usuario.html" "./" "empresa.html" "sede.html~" "empresa.html~" "../" "sede.html")
+
+ ("/home/andru1236/freelance/Marcelino/proyecto/ERP/ERP/" (23158 34853 656625 987000) "__init___flymake.py" "urls.py" "__init__.py" "settings.py" "wsgi.py" "./" "__pycache__/" "../")
+
+ ("/home/andru1236/.emacs.d/" (23158 18231 40247 971000) ".emacs.desktop" "elpa/" ".git/" "my-emacs.png" "ido.last" "config/" "extensions/" "auto-save-list/" "./" "ido.last~" ".emacs.desktop.lock" ".gitignore" "snippets/" "init.el~" "init.el" ".directory" "eshell/" "../" "ac-comphist.dat" "README.md")
+
+ ("/home/andru1236/NEGOCIO/InventarioApp/BoxitInventory/Inventary/" (23157 24291 796472 116000) "views.py" "__init__.py" "apps.py" "forms.py" "models.py" "migrations/" "admin.py" "modelos/" "./" "__pycache__/" ".directory" "../" "tests.py")
+
+ ("/home/andru1236/Downloads/adminto-15/Admin/" (23157 20082 848839 77000) "Horizontal-RTL/" "./" "Horizontal/" "Vertical-RTL/" ".directory" "Dark/" "../" "Light/")
+
+ ("/home/andru1236/.emacs.d/config/" (23157 15826 714381 912000) "switch-windows-config.el" "config-multiple-cursor.el" "auto-pair-config.el" "config-undo-tree.el~" "init-auto-save.el" "python-dev.el" "config-smex.el~" "init-package.el" "./" "key.el" "start.el" "neotree-config.el" "config-all-icons.el~" "config-all-icons.el" "airline-config.el" "config-theme.el" "ido-mode-vertical-config.el" "hlinum-config.el" ".directory" "../" "config-undo-tree.el" "config-smex.el" "config-multiple-cursor.el~" "swiper-config.el")
+
+ ("/home/andru1236/EmacsConf/Actual/22012018/emacs.d/" (23157 11976 192145 886000) "lisp/" ".emacs.desktop" "elpa/" "emacs-powerline-master/" "modes.el" "temas_emacs/" "emacs-neotree-dev/" "ido.last" "auto-save-list/" "network-security.data" "./" "ido.last~" "modes.el~" "snippets/" "init.el~" "init.el" ".directory" "../" "ac-comphist.dat")
+
+ ("/home/andru1236/.emacs.d/extensions/multiple-cursors-1.3.0/" (23157 11523 842957 61000) "mc-edit-lines.el" "multiple-cursors.elc" "mc-mark-pop.elc" "multiple-cursors-core.el" "multiple-cursors-pkg.el" "multiple-cursors-pkg.elc" "rectangular-region-mode.el" "mc-edit-lines.elc" "mc-mark-more.el" "mc-mark-more.elc" "rectangular-region-mode.elc" "./" "mc-mark-pop.el" "multiple-cursors-core.elc" "mc-separate-operations.elc" "mc-cycle-cursors.elc" "mc-separate-operations.el" "../" "multiple-cursors.el~" "mc-cycle-cursors.el" "multiple-cursors-autoloads.el" "multiple-cursors.el")
+
+ ("/home/andru1236/.emacs.d/extensions/undo-tree-0.6.5/" (23157 11493 769677 301000) "undo-tree-autoloads.el" "./" "undo-tree.el" "undo-tree.elc" "undo-tree-pkg.el" "../")
+
+ ("/home/andru1236/.emacs.d/extensions/" (23157 11523 796290 477000) "exotica-theme-master.zip" "neotree/" "all-the-icons.el-master.zip" "swiper/" "py-yapf/" "zerodark-theme-master.zip" "exotica-theme/" "auto-save-deepin/" "autopair/" "zerodark-theme-master/" "multiple-cursors-1.3.0/" "airline-themes/" "switch-window-0.9/" "doom-theme/" "./" "theme-deep/" "undo-tree-0.6.5/" "emacs-master.zip" ".directory" "../" "hlinum.el" "ido-vertical-mode/" "all-the-icons/")
+
+ ("/home/andru1236/EmacsConf/Actual/" (23150 9752 570525 131000) "22012018/" "./" "28012018/" ".directory" "../" "27012018/")
+
+ ("/home/andru1236/.config/VirtualBox/" (23156 44106 972071 297000) "xpti.dat" "VBoxSVC.log.10" "VBoxSVC.log.4" "VBoxSVC.log.9" "VBoxSVC.log.3" "VBoxSVC.log.6" "VBoxSVC.log.7" "VirtualBox.xml-prev~" "VBoxSVC.log.1" "VirtualBox-1.12-linux.xml" "VBoxSVC.log" "./" "VirtualBox.xml-prev" "selectorwindow.log.1" "compreg.dat" "VirtualBox.xml.old" "VirtualBox.xml~" "VBoxSVC.log.5" "selectorwindow.log" "VBoxSVC.log.8" "VBoxSVC.log.2" "../" "VirtualBox.xml" "vbox-ssl-cacertificate.crt")
+
+ ("/home/andru1236/freelance/Marcelino/proyecto/ERP/assets_desarrollo/static/plugins/datatables/" (22680 37391 0 0) "buttons.bootstrap.min.js" "dataTables.responsive.min.js" "dataTables.bootstrap.js" "dataTables.fixedHeader.min.js" "dataTables.scroller.min.js" "jquery.dataTables.min.js" "buttons.bootstrap.min.css" "buttons.print.min.js" "jquery.dataTables.min.css" "buttons.html5.min.js" "./" "vfs_fonts.js" "dataTables.keyTable.min.js" "json/" "jszip.min.js" "fixedHeader.bootstrap.min.css" "pdfmake.min.js" "responsive.bootstrap.min.js" "scroller.bootstrap.min.css" "../" "dataTables.buttons.min.js" "responsive.bootstrap.min.css")
+
+ ("/home/andru1236/freelance/Marcelino/proyecto/ERP/assets_desarrollo/static/pages/" (22680 37391 0 0) "jquery.fullcalendar.js" "jquery.ui-sliders.js" "jvectormap.init.js" "jquery.chartist.init.js" "jquery.peity.init.js" "jquery.chartjs.init.js" "jquery.tree.js" "jquery.other-charts.js" "datatables.init.js" "./" "jquery.morris.init.js" "jquery.sweet-alert.init.js" "jquery.xeditable.js" "jquery.inbox.js" "jquery.dashboard.js" "datatables.editable.init.js" "jquery.flot.init.js" "../" "jquery.gmaps.js")
+
+ ("/home/andru1236/NEGOCIO/InventarioApp/BoxitInventory/staticProject/static/js/" (23156 59779 908483 17000) "profile/" "sideNav.txt" "./" "../")
+
+ ("/home/andru1236/EmacsConf/deepin-emacs/site-lisp/config/" (23157 6802 612074 964000) "init-newsticker.el" "init-auto-sudoedit.el" "init-org.el" "init-top.el" "init-smex.el" "init-winpoint.el" "init-ruby.el" "init-qt.el" "init-time.el" "init-backup.el" "init-linum.el" "init-hideshow.el" "init-visual-regexp.el" "init-speedbar.el" "init-aggressive-indent.el" "init-dired.el" "init-irc.el" "init-doi.el" "init-auto-indent-mode.el" "init-etags.el" "init-benchmark.el" "init-golang.el" "init-key.el" "init-python.el" "init-rcirc.el" "init-woman.el" "init-moccur.el" "init-less.el" "init-auto-save.el" "init-ecb.el" "init-one-key.el" "init-coffee-mode.el" "init-indent-guide.el" "init-predictive.el" "init-maxima.el" "init-multiterm.el" "init-auctex.el" "init-doxymacs.el" "init-web-mode.el" "init-startup.el" "init-haskell.el" "init-ide.el" "init-flymake.el" "init-yaoddmuse.el" "init-cursor-chg.el" "init-anything.el" "init-cycle-buffer.el" "init-package.el" "init-pdf-tools.el" "init-wget.el" "init-mode.el" "init-w3m.el" "init-window.el" "init-session.el" "init-rebuilder.el" "init-company-mode.el" "init-ido.el" "init-iedit.el" "./" "init-erc.el" "init-doc-view.el" "init-indent.el" "init-thing-edit.el" "init-yasnippet.el" "init-multiple-cursors.el" "init-info.el" "init-sdcv.el" "init-gnus.el" "init-auto-install.el" "init-idle.el" "init-jedi.el" "init-paredit.el" "init-helm.el" "init-sublimity.el" "init-smooth-scrolling.el" "init-tempbuf.el" "init-festival.el" "init.el" "init-minibuffer-tray.el" "init-kill-ring-search.el" "init-org-mode.el" "init-ispell.el" "init-rtags.el" "../" "init-bbbd.el" "init-emms.el" "init-auto-complete.el" "init-apt-utils.el" "theme.el" "init-mldonkey.el" "init-eldoc.el" "init-generic.el" "init-shell.el" "init-help-mode.el" "init-tabbar.el" "init-shell-command.el" "init-irfc.el" "init-git.el" "init-css-mode.el" "init-icicles.el")
+
+ ("/home/andru1236/.EasyPmd_10/" (23026 51828 905924 768000) "cache/" "./" "../")
+
+ ("/home/andru1236/.emacs.d/extensions/exotica-theme-master/" (23154 41194 0 0) "LICENSE" "./" ".gitignore" "screenshot1.png" "Screenshot2.png" "../" "README.md" "exotica-theme.el")
+
+ ("/home/andru1236/.emacs.d/elpa/material-theme-1.2/" (23157 5420 101635 107000) "material-theme-autoloads.el" "material-theme.el" "material-light-theme.elc" "material-theme.elc" "./" "material-theme-pkg.el" "material-light-theme.el" "../")
+
+ ("/home/andru1236/.emacs.d/elpa/" (23157 5418 811637 938000) "python-environment-0.0.2/" "jedi-0.2.7/" "deferred-0.5.1/" "material-theme-1.2/" "pythonic-0.1.0/" "find-file-in-project-5.4.7/" "epc-0.1.1/" "company-0.9.4/" "concurrent-0.5.1/" "gnupg/" "powerline-2.4/" "pyenv-mode-0.1.0/" "popup-0.5.3/" "ctable-0.1.2/" "jedi-core-0.2.7/" "./" "s-1.12.0/" "yasnippet-0.12.2/" "archives/" "goto-chg-1.7.2/" "elpy-1.17.0/" "auto-complete-1.5.1/" "undo-tree-0.6.5/" "evil-1.2.13/" "pyvenv-1.10/" "dash-2.13.0/" "../" "undo-tree-0.6.5.signed" "highlight-indentation-0.7.0/" "ivy-0.10.0/" "f-0.20.0/")
+
+ ("/home/andru1236/NEGOCIO/InventarioApp/BoxitInventory/staticProject/static/" (23129 40857 196560 862000) "vendor/" "Material/" "fonts/" "dist/" "js/" "./" "css/" "favicon/" "data/" "../" "image/")
+
+ ("/home/andru1236/NEGOCIO/InventarioApp/BoxitInventory/staticProject/" (23129 40856 843233 87000) "./" "static/" "../")
+
+ ("/home/andru1236/NEGOCIO/InventarioApp/BoxitInventory/BoxitInventary/" (23155 55473 610718 237000) "urls.py" "__init__.py" "settings.py" "wsgi.py" "./" "__pycache__/" "../")
+
+ ("/home/andru1236/freelance/Marcelino/proyecto/ERP/assets_desarrollo/static/plugins/" (22680 37391 0 0) "bootstrap-inputmask/" "bootstrap-wizard/" "count-down/" "jquery-datatables-editable/" "counterup/" "x-editable/" "custombox/" "tiny-editable/" "ion-rangeslider/" "bootstrap-sweetalert/" "bootstrap-daterangepicker/" "dragula/" "toastr/" "waypoints/" "bootstrap-touchspin/" "chartist/" "peity/" "jquery-circliful/" "jvectormap/" "gmaps/" "switchery/" "jquery-sparkline/" "hopscotch/" "fileuploads/" "jquery-validation/" "isotope/" "jquery-knob/" "bootstrap-tagsinput/" "animate.less/" "multiselect/" "morris/" "tinymce/" "notifyjs/" "magnific-popup/" "./" "chart.js/" "css/" "jquery-quicksearch/" "parsleyjs/" "jstree/" "RWD-Table-Patterns/" "colorpicker/" "raphael/" "datatables/" "../" "summernote/" "timepicker/" "tablesaw/" "bootstrap-datepicker/" "moment/" "fullcalendar/" "mjolnic-bootstrap-colorpicker/" "flot-chart/" "jquery.steps/" "bootstrap-maxlength/" "d3/" "select2/" "jquery-ui/")
+
+ ("/home/andru1236/freelance/Marcelino/proyecto/ERP/assets_desarrollo/static/" (23151 36509 808083 442000) "less/" "images/" "fonts/" "js/" "./" "css/" "plugins/" "../" "pages/")
+
+ ("/home/andru1236/freelance/Marcelino/proyecto/ERP/assets_desarrollo/" (23147 55097 923331 117000) "./" "static/" "../")
+
+ ("/home/andru1236/NEGOCIO/InventarioApp/BoxitInventory/Templates/" (23155 52136 510638 803000) "Boxit/" "Analytics/" "Profile/" "navBarOrder.html" "./" "Accounts/" "indexOrder.html" "Product/" "navBar.html" ".directory" "Orders/" "index.html" "../")
+
+ ("/home/andru1236/Documents/" (23153 18679 186569 497000) "Redes Avanzadas/" "SourceForge/" "Juegos java/" "Fabrica de Sofware/" "Ing de Software/" "Sis 1/" "workspace/" "Diario/" "Curso Java Script/" "Taller Progra/" "PLAN GLOBAL UMSS/" "Arqui II/" "VPProjects/" "Machin learning/" "Taller de programacion/" "semantica/" "Grafos/" "MATRICULA-2017" "BaseDeDatos/" "TBD/" "Habitacion/" "Untitled 1.ods" "ProgWeb/" "Progra/" "Graficacion/" "EvaluacionSistemas/" "./" "Clases Mikrotik/" "Automatas/" "Software Medico /" "pgMoleder/" "Funcional/" "Inteligencia artificial/" "Cursos online/" "Clases PhDisanti/" "Elementos de progra/" "Redes/" "AlgoritmosAvanzados/" "Arquitectura de software/" ".directory" "../" "Sis2/" "Arquitectura/" "Bajo nivel/" "Configuraciones de emacs/" "C/" "BasesDeDatosDistribuidas/" "TSO/")
+
+ ("/home/andru1236/NEGOCIO/InventarioApp/BoxitInventory/Templates/Profile/" (23129 40856 839899 806000) "SellProduct/" "profile.html" "cancelledSoldItems.html" "./" "Inventory/" "../")
+
+ ("/home/andru1236/freelance/Marcelino/proyecto/ERP/configuracion/" (23155 34378 20065 525000) "views.py" "__init__.py" "apps.py" "models.py" "migrations/" "admin.py" "modelos/" "./" "__pycache__/" ".directory" "../" "tests.py")
+
+ ("/home/andru1236/NEGOCIO/InventarioApp/BoxitInventory/accounts/" (23154 39419 592163 441000) "views.py" "__init__.py" "apps.py" "forms.py" "models.py" "migrations/" "admin.py" "./" "__pycache__/" "../" "tests.py")
+
+ ("/home/andru1236/NEGOCIO/InventarioApp/BoxitInventory/Templates/Product/" (23154 38353 783795 817000) "productTable.html" "./" "productForm.html" "../")
+
+ ("/home/andru1236/NEGOCIO/InventarioApp/BoxitInventory/Templates/Accounts/" (23154 39036 219407 828000) "login.html" "./" "loginMaterial.html" "register.html" "../")
+
+ ("/home/andru1236/Downloads/adminto-15/" (22885 22324 79338 900000) "frontend/" "./" "Documentation/" "Admin/" "../")
+
+ ("/home/andru1236/freelance/Marcelino/proyecto/ERP/catalogo_general/sqls/" (23154 24827 849431 661000) "ubigeos.sql" "medio_pago.sql" "tipo_documento.sql" "comprobante.sql" "./" "categoria.sql" "catalogo_general.sql~" "../" "pais.sql" "unidad_medida.sql" "catalogo_general.sql")
+
+ ("/boot/" (23153 60502 251294 450000) "linux49-x86_64.kver" "vmlinuz-4.14-x86_64" "linux44-x86_64.kver" "linux-414-rt-x86_64.kver" "initramfs-4.4-x86_64-fallback.img" "vmlinuz-4.4-x86_64" "intel-ucode.img" "vmlinuz-4.14-rt-x86_64" "initramfs-4.9-x86_64.img" "initramfs-4.9-x86_64-fallback.img" "linux414-x86_64.kver" "initramfs-4.4-rt-lts-x86_64.img" "initramfs-4.14-x86_64.img" "initramfs-4.9-rt-lts-x86_64-fallback.img" "initramfs-4.4-rt-lts-x86_64-fallback.img" "./" "initramfs-4.4-x86_64.img" "initramfs-4.14-rt-x86_64.img" "syslinux/" "initramfs-4.14-x86_64-fallback.img" "memtest86+/" "vmlinuz-4.9-x86_64" "initramfs-4.9-rt-lts-x86_64.img" "../" "initramfs-4.14-rt-x86_64-fallback.img" "grub/")
+
+ ("/home/andru1236/.config/" (23153 64150 171502 332000) "plasmarc" "akonadi_indexing_agentrc" "kiorc" "kingsoft/" "kscreenlockerrc" "systemsettingsrc" "kioslaverc" "akonadi-migrationrc.lock" "kmail2rc" "gtkrc-2.0" "fontconfig/" "akregatorrc" "akonadi_maildir_resource_0rc" "kgammarc" "akonadi/" "emaildefaults" "konquerorrc" "startupconfig" "filetypesrc" "user-dirs.dirs" "akonadi_imap_resource_0rc" "powerdevilrc" "pulse/" "configstore/" "akonadi-firstrunrc" "kcminputrc" "menus/" "Kingsoft/" "q4wine/" "trashrc" "kcmfonts" "vlc/" "VisualParadigm/" "kcmdisplayrc" "kde.org/" "katesyntaxhighlightingrc" "k3brc" "specialmailcollectionsrc" "Code/" "terminator/" "psppirerc" "kded5rc" "autostart-scripts/" "Genymobile/" "kmenueditrc" "vlcrc" "kgetrc" "startupconfigfiles" "discord/" "touchpadrc" "akonadi_ical_resource_0rc" "katerc" "ksysguardrc" "kwinrc" "bluedevilglobalrc" "cef_user_data/" "qBittorrent/" "okularrc" "plasmashellrc" "konversationrc" "ranger/" "kaccessrc" "kwalletrc" "sublime-text-3/" "Unknown Organization/" "kdeglobals" "kded_device_automounterrc" "Kvantum/" "kwinrulesrc" "Trolltech/" "kglobalshortcutsrc" "konsolerc" "qupzilla/" "autostart/" "akonadi_contactrc" "htop/" "plasma-org.kde.plasma.desktop-appletsrc" "kwriterc" "manjaro/" "libreoffice/" "khelpcenterrc" "kfontinstuirc" "kateschemarc" "kactivitymanagerdrc" "pgmodelerrc" "akonadi_newmailnotifier_agentrc" "kconf_updaterc" "plasmashellrc.KnT984" "accountwizardrc" "VirtualBox/" "knfsshare" "kdialogrc" "kactivitymanagerd-statsrc" "pgmodeler/" "./" "kmailsearchindexingrc" "spotify/" "phonon.notifyrc" "mimeapps.list" "pgadmin/" "kget_multisegkiofactory.rc" "QtProject.conf" "akonadi_akonotes_resource_0rc" "kdeconnect/" "powermanagementprofilesrc" "kwinqtcurverc" "kmozillahelperrc" "startupconfigkeys" "khotkeysrc" "gtkrc" "arkrc" "baloofileinformationrc" "qtcurve/" "phishingurlrc" "dolphinrc" "importwizardrc" "katepartrc" "print-manager" "baloofilerc" "libaccounts-glib/" "plasma-nm" "ktimezonedrc" "user-dirs.locale" "ksplashrc" "gconf/" "Trolltech.conf" "google-chrome/" "gwenviewrc" "playbarrc" "dconf/" "emailidentities" "klipperrc" "../" "foldermailarchiverc" "krunnerrc" "signond/" "ksmserverrc" "katevirc" "spectaclerc" "plasma-localerc" "keditfiletyperc" "kmixrc" "mailtransports" "kdebugrc" "gtk-3.0/" "okularpartrc" "Clementine/" "plasma-workspace/" "katemetainfos" "octopi/" "manjaro-hello.json" "session/" "VirtualBoxrc" "gtk-2.0/" "yakuakerc")
+
+ ("/home/andru1236/freelance/Marcelino/proyecto/ERP/" (23151 36502 424769 798000) "administracion/" ".git/" "configuracion/" "catalogo_general/" "catalogo_con_movimiento/" "catalogo_sin_movimiento/" "ERP/" "requirements.txt" "./" "plantillas/" ".gitignore" "assets_desarrollo/" ".directory" "../" "manage.py")
+
+ ("/home/andru1236/IDES/PycharmProjects/publications/" (23150 3457 589491 629000) "LogicPublication.py" "ScriptPublication.py" "./" "__pycache__/" "LogicPublication.py~" "test_permutas.py" "publications" ".idea/" "desktopPublications.py~" "geckodriver.log" "../" "desktopPublications.py" "groups")
+
+ ("/home/andru1236/freelance/Marcelino/proyecto/ERP/catalogo_con_movimiento/migrations/" (23150 43515 61323 346000) "__init__.py" "0001_initial.py" "./" "__pycache__/" "../")
+
+ ("/home/andru1236/NEGOCIO/InventarioApp/BoxitInventory/Inventary/modelos/" (23144 58099 635019 711000) "./" "../")
+
+ ("/home/andru1236/.emacs.d/extensions/doom-theme/" (23150 9968 170217 130000) "LICENSE" "doom-themes.el" "test/" "themes/" "doom-themes-neotree.el" ".travis.yml" "./" "doom-themes-common.el" ".gitignore" "Cask" "Makefile" "../" "doom-themes-org.el" "README.md")
+
+ ("/home/andru1236/IDES/PycharmProjects/" (23114 58215 894938 812000) "./" "publications/" "../")
+
+ ("/home/andru1236/IDES/" (23129 36743 468694 367000) "PycharmProjects/" "AndroidStudioProjects/" "NetBeansProjects/" "./" ".directory" "../" "IdeaProjects/")
+
+ ("/home/andru1236/.emacs.d/extensions/auto-save-deepin/" (23150 940 675698 252000) "auto-save.el" "./" "../")
+
+ ("/home/andru1236/EmacsConf/Actual/22012018/emacs.d/lisp/" (23150 68 486312 80000) "swiper/" "init-auto-save.el" "fullscreen.el" "auto-save.el" "init-startup.el" "auto-save.el~" "init-auto-save.el~" "auto-complete/" "./" ".directory" "../" "init-auto-complete.el")
+
+ ("/home/andru1236/EmacsConf/Actual/22012018/emacs.d/auto-save-list/" (23142 20123 122168 382000) ".saves-14198-Martell~" "./" "../")
+
+ ("/home/andru1236/.emacs.d/snippets/" (23149 5782 375897 696000) "./" "../")
+
+ ("/home/andru1236/NEGOCIO/InventarioApp/BoxitInventory/" (23129 42203 212650 348000) ".git/" "boxit.backup" ".vscode/" "BoxitInventary/" "requirements.txt" "Templates/" "staticProject/" "./" "Inventary/" "accounts/" "triggers/" ".idea/" ".directory" "../" "db.sqlite3" "manage.py")
+
+ ("/home/andru1236/NEGOCIO/InventarioApp/" (23129 40768 97795 491000) "boxit/" "./" "BoxitInventory/" "../")
+
+ ("/home/andru1236/NEGOCIO/" (23141 25966 573052 531000) "boxitFinal-ConvertImage.png" ".~BOXIT BOLIVIA HOJA OFICIAL.xlsx" "InventarioApp/" "boxitFinal.png" "./" "Emprendimiento/" "Publicacion/" ".directory" "App_movil/" "../")
+
+ ("/home/andru1236/freelance/Marcelino/proyecto/" (23149 22798 924880 182000) "assets/" "servidor/" "ERP/" "requirements.txt" "./" ".directory" "../")
+
+ ("/home/andru1236/freelance/" (23149 22791 878217 335000) "Marcelino/" "./" ".directory" "registros" "../")
+
+ ("/home/andru1236/EmacsConf/Actual/22012018/emacs.d/elpa/switch-window-0.9/" (23142 20123 245502 372000) "switch-window.elc" "switch-window.el" "switch-window-autoloads.el" "./" "switch-window-pkg.el" "../")
+
+ ("/home/andru1236/EmacsConf/Actual/22012018/emacs.d/elpa/" (23142 20123 135501 786000) "github-theme-0.0.3/" "autopair-0.3/" "ace-jump-mode-2.0.0.0/" "yasnippet-0.11.0.signed" "emmet-mode-1.0.10/" "minimap-1.2.signed" "memoize-20130421.1234/" "font-lock+-20170222.1755/" "minimap-1.2/" "popup-0.5/" "gnupg/" "powerline-20161121.2320/" "multiple-cursors-1.3.0/" "switch-window-0.9/" "all-the-icons-20170623.357/" "doom-themes-20170615.437/" "./" "atom-dark-theme-20151119.2335/" "archives/" "smex-3.0/" "undo-tree-0.6.5/" "yasnippet-0.6.1/" "ido-vertical-mode-0.1.1/" "dracula-theme-20170412.845/" "../" "undo-tree-0.6.5.signed" "alpha-1.0/" "main-line-1.2.8/" "auto-complete-1.4/" "yasnippet-0.11.0/" "atom-one-dark-theme-20170117.1905/")
+
+ ("/home/andru1236/EmacsConf/deepin-emacs/site-lisp/extensions/" (23148 46466 764561 325000) "slime/" "qmake-mode/" "g-client/" "gaf/" "nxhtml/" "sublimity/" "bbdb/" "emaf/" "inf-ruby/" "benchmark/" "predictive/" "wrap-region/" "swiper/" "rcodetools/" "rtags/" "emacs-w3m/" "emacs-jedi/" "imaxima/" "emacs-rails/" "ztree/" "lazycat/" "flycheck/" "multiple-cursors/" "icicles-20140102.1758/" "vala-mode/" "enhanced-ruby-mode/" "go/" "e-blog/" "company-mode/" "yasnippet/" "anything/" "gocode/" "magit/" "auto-complete-clang/" "ruby-electric/" "rcirc/" "apel/" "auto-complete/" "ace-jump-mode/" "emmet-mode/" "ace-link/" "emacs-python-environment/" "./" "jade-mode/" "emacs-wget-0.5.0/" "emacs-quickrun/" "ruby-tools/" "ipython-0.9.1/" "smooth-scrolling/" "doxymacs-1.8.0/" "popup-el/" "dired-hacks/" "emacs-ctable/" "python-mode-1.0/" "haskell-mode/" "emacs-go-eldoc/" "dash/" "webkit/" "minibuffer-tray/" "emacs-epc/" "eim-2.4/" "iedit/" "cscope-15.6/" "coffee-mode/" "emms/" "elib/" "c-eldoc/" "pdf-tools/" "../" "vdiff/" "auctex-11.85/" "expand-region/" "ghc-mod/" "tuareg-2.0.6/" "debian-utils/" "helm/" "ace-window/" "rust-mode/" "web-mode/" "emacs-deferred/" "mldonkey-el-0.0.4/" "flymake/" "robe/")
+
+ ("/home/andru1236/EmacsConf/deepin-emacs/site-lisp/" (23148 46464 784549 719000) "config/" "extensions/" "./" "../")
+
+ ("/home/andru1236/EmacsConf/deepin-emacs/" (23148 46466 767894 678000) "site-start.el" ".git/" "site-lisp/" "./" ".gitignore" "debian/" "deepin-emacs.desktop" "emacs-git/" "../" "deepin-emacs.svg" "README.md")
+
+ ("/home/" (22875 48552 868530 89000) "andru1236/" "./" "../")
+
+ ("/home/andru1236/EmacsConf/" (23149 4500 514335 615000) "Actual/" "emacs-doom-themes-master/" "emacs-doom-themes-master.zip" ".emacs.d-6/" "./" "deepin-emacs/" ".directory" "../" "generate.zip" "emacs_bootrap/")
+
+ ("/home/andru1236/EmacsConf/Actual/22012018/" (23148 44485 401302 618000) "emacs.d/" "./" ".directory" "../")
+)
+
+;; ----- ido-unc-hosts-cache -----
+t

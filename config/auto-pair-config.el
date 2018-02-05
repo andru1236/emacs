@@ -1,4 +1,9 @@
-(add-to-list 'load-path "~/.emacs.d/extensions/autopair/")
+
+;; (add-to-list 'load-path "~/.emacs.d/extensions/autopair/")
+
+(let ((default-directory  "~/.emacs.d/extensions/"))
+  (normal-top-level-add-subdirs-to-load-path))
+
 (require 'autopair)
 (autopair-global-mode)
 

@@ -14,6 +14,6 @@
 ;; Format auto-save standar pep 8
 (add-to-list 'load-path "~/.emacs.d/extensions/py-yapf/")
 (require 'py-yapf)
-(add-hook 'python-mode-hook 'py-yapf-enable-on-save)
+;; (add-hook 'python-mode-hook 'py-yapf-enable-on-save)
 
 (provide 'python-dev)
