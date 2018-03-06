@@ -13,6 +13,7 @@
 (global-linum-mode 1)                         ;; habilitar lineas
 (setq linum-format "%5d\u2502 ")             ;; padding linum
 
+(fset 'yes-or-no-p 'y-or-n-p)               ;; reemplazar yes y no por y n
 (setq-default truncate-lines 0)
 (provide 'start)
 

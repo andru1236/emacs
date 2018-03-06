@@ -1,5 +1,4 @@
 
-
 ;;               Zoom con alt "+" || "-"
 (global-set-key (kbd "M-=") 'text-scale-increase)
 (global-set-key (kbd "M--") 'text-scale-decrease)
@@ -16,7 +15,18 @@
 ;; Swipe
 (global-set-key (kbd "C-S-s") 'swiper)
 
-;; 
+;; Magit
+(global-set-key (kbd "C-x g") 'magit-status)
+
+;; move Scroll
+
+(global-set-key (kbd "C-,") 'scroll-up-line)
+(global-set-key (kbd "C-.") 'scroll-down-line)
+
+;; ibuffer en lugar de list-buffers
+(global-set-key (kbd "C-x C-b") 'ibuffer)
+
+
 ;; Comentar linea de codigo  C-:
 (defun comment-or-uncomment-region-or-line ()
   "Comments or uncomments the region or the current line if there's no active region."
