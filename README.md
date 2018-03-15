@@ -8,7 +8,7 @@ my emacs IDE for python, currently the environment that I use to develop applica
 
 - **Requirements**
 
-pip `sudo apt-get install pip`, `yaourt pip`,`sudo pacman -S pip`
+`pip `sudo apt-get install pip`, `yaourt pip`,`sudo pacman -S pip`
 
 `pip install elpy jedi flake8 importmagic autopep8 yapf epc`
 

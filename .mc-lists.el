@@ -12,6 +12,7 @@
       '(
 	autopair-insert-opening
 	autopair-skip-close-maybe
+	beginning-of-buffer
 	mouse-save-then-kill
 	org-force-self-insert
 	))
