@@ -39,6 +39,13 @@
 (add-hook 'web-mode-hook  'my-web-mode-hook)
 (setq js-indent-level 2)
 
+(add-hook 'php-mode-hook 'my-php-mode-hook)
+(defun my-php-mode-hook ()
+  "My PHP mode configuration."
+  (setq indent-tabs-mode nil
+        tab-width 2
+        c-basic-offset 2))
+
 (require 'expand-region)
 (global-set-key (kbd "C-=") 'er/expand-region)
 
@@ -58,7 +65,7 @@
  ;; If there is more than one, they won't work right.
  '(package-selected-packages
    (quote
-    (yasnippet-snippets multiple-cursors expand-region ace-jump-mode web-mode zerodark-theme pyenv-mode powerline material-theme jedi exotica-theme evil elpy challenger-deep-theme))))
+    (php-mode yasnippet-snippets multiple-cursors expand-region ace-jump-mode web-mode zerodark-theme pyenv-mode powerline material-theme jedi exotica-theme evil elpy challenger-deep-theme))))
 (custom-set-faces
  ;; custom-set-faces was added by Custom.
  ;; If you edit it by hand, you could mess it up, so be careful.
