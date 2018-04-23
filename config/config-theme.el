@@ -6,20 +6,20 @@
 (require 'doom-themes)
 
 ;;; Settings (defaults)
-;; (setq doom-enable-bold t    ; if nil, bolding are universally disabled
-      ;; doom-enable-italic t  ; if nil, italics are universally disabled
-      ;; doom-one-brighter-modeline nil
-      ;; doom-one-brighter-comments nil)
+(setq doom-enable-bold t    ; if nil, bolding are universally disabled
+      doom-enable-italic t  ; if nil, italics are universally disabled
+      doom-one-brighter-modeline nil
+      doom-one-brighter-comments nil)
 
 ;; Load the theme (doom-one, doom-dark, etc.)
-;;(load-theme 'doom-one t)
+(load-theme 'doom-one t)
 
 ;; Enable flashing mode-line on errors
-;;(doom-themes-visual-bell-config)
+(doom-themes-visual-bell-config)
 
 ;;; OPTIONAL
 ;; brighter source buffers (that represent files)
-;;(add-hook 'find-file-hook 'doom-buffer-mode-maybe)
+;; (add-hook 'find-file-hook 'doom-buffer-mode-maybe)
 ;; ...if you use auto-revert-mode
 ;;(add-hook 'after-revert-hook 'doom-buffer-mode-maybe)
 ;; And you can brighten other buffers (unconditionally) with:
@@ -29,15 +29,15 @@
 ;;(add-hook 'minibuffer-setup-hook 'doom-brighten-minibuffer)
 
 ;; Enable custom neotree theme
-;;(doom-themes-neotree-config)  ; all-the-icons fonts must be installed!
+(doom-themes-neotree-config)  ; all-the-icons fonts must be installed!
 
 ;; Enable nlinum line highlighting
 ;; (doom-themes-nlinum-config)   ; requires nlinum and hl-line-mode
 
 ;; Necessary for org-mode
-;;(setq org-fontify-whole-heading-line t
-;;      org-fontify-done-headline t
-;;      org-fontify-quote-and-verse-blocks t)
+(setq org-fontify-whole-heading-line t
+      org-fontify-done-headline t
+      org-fontify-quote-and-verse-blocks t)
 
 ;; (setq-default
 ;;  mode-line-default-help-echo nil ; don't say anything on mode-line mouseover

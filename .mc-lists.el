@@ -4,8 +4,12 @@
 (setq mc/cmds-to-run-for-all
       '(
 	autopair-insert-or-skip-quote
+	indent-for-tab-command
+	kill-region
 	org-self-insert-command
+	scroll-down-line
 	skeleton-pair-insert-maybe
+	smex
 	))
 
 (setq mc/cmds-to-run-once
@@ -13,6 +17,7 @@
 	autopair-insert-opening
 	autopair-skip-close-maybe
 	beginning-of-buffer
+	end-of-buffer
 	mouse-save-then-kill
 	org-force-self-insert
 	))
