@@ -24,6 +24,9 @@ In a nutshell delete folder `.emacs.d/` and file `.emacs` from the home, and cop
 
 `mv emacs .emacs.d`
 
+- **Execute in Emacs**
+
+  - `M-x` all-the-icons-install-fonts
 
 - **Extensions Use**
 
