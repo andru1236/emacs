@@ -60,6 +60,11 @@
 ;; yass snippet
 (yas-global-mode)
 
+;; Trnasparent emacs
+
+(set-frame-parameter (selected-frame) 'alpha '(96 . 94))
+(add-to-list 'default-frame-alist '(alpha . (96 . 94)))
+
 
 ;; (require 'moe-theme)
 ;;  EMACS
@@ -68,3 +73,17 @@
 
 ;; (load-theme 'exotica)
 ;; (load-theme 'challenger-deep)
+(custom-set-variables
+ ;; custom-set-variables was added by Custom.
+ ;; If you edit it by hand, you could mess it up, so be careful.
+ ;; Your init file should contain only one such instance.
+ ;; If there is more than one, they won't work right.
+ '(package-selected-packages
+   (quote
+    (zerodark-theme yasnippet-snippets web-mode pyenv-mode powerline php-mode multiple-cursors moe-theme material-theme jedi expand-region exotica-theme evil emmet-mode elpy challenger-deep-theme ace-jump-mode))))
+(custom-set-faces
+ ;; custom-set-faces was added by Custom.
+ ;; If you edit it by hand, you could mess it up, so be careful.
+ ;; Your init file should contain only one such instance.
+ ;; If there is more than one, they won't work right.
+ )
